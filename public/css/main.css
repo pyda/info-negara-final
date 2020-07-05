@@ -16,6 +16,11 @@ body {
   margin: 0;
 }
 
+#butInstall{
+    background: #6e5cd2;
+    border: none;
+}
+
 /**
  * Add the correct display in IE 9-.
  */
